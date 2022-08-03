@@ -8,3 +8,6 @@ print = pprint
 print(print.__name__)
 
 print([1,2,3])
+
+
+print('some information')
