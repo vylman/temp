@@ -11,3 +11,6 @@ print([1,2,3])
 
 
 print('some information')
+
+
+print("add new information")
