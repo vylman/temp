@@ -14,3 +14,5 @@ print('some information')
 
 
 print("add new information")
+
+print(1)
